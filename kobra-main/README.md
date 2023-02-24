@@ -48,8 +48,8 @@ And it was the updated version of social recon which i was published earlier.
 
 # Installation
 
-- git clone https://github.com/Ramalingasamy012/Infosint
-- cd Infosint
-- python3 Infosint.py
+- git clone https://github.com/whitekobra69/kobra
+- cd kobra
+- python3 kobra.py
 
 # Drop a star for this tool.
