@@ -49,4 +49,4 @@ And it was the updated version of social recon which i was published earlier.
 - cd kobra
 - python3 kobra.py
 
-# Drop a star for this tool.
+# Happy hacking 💀
