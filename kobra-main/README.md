@@ -6,7 +6,7 @@ And it was the updated version of social recon which i was published earlier.
 
 # Author
 
- - <b>Ramalingasamy M K</b> 
+ - <b>white kobra</b> 
   
 # Main Features
 
