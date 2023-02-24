@@ -42,9 +42,6 @@ And it was the updated version of social recon which i was published earlier.
 
 - It maps the multiple IP and provide as a Map called Heatmap.
 
-# Screenshot
-
-<img src="https://github.com/Ramalingasamy012/Infosint/blob/main/screenshot.png">
 
 # Installation
 
